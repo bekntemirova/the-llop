@@ -1,0 +1,214 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+a {
+  text-decoration: none;
+  font-family: "Satisfy", cursive;
+}
+li {
+  list-style: none;
+  font-family: "Satisfy", cursive;
+}
+
+.btn {
+  border-radius: 50px;
+  background: none;
+  padding: 20px 60px;
+  text-transform: uppercase;
+  font-size: 24px;
+  color: white;
+  margin-bottom: 120px;
+}
+.header {
+  margin-left: 12rem;
+}
+.header {
+  background-image: url("../img/IMAGE.png");
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 880px;
+  padding-top: 40px;
+  margin-bottom: 0;
+  text-align: center;
+  margin-right: auto;
+  margin-left: auto;
+  background-attachment: fixed;
+}
+
+/* paprer */
+.paper {
+  display: flex;
+  justify-content: space-around;
+  text-align: center;
+}
+.paper-menu:nth-child(2) {
+  margin-left: 48rem;
+}
+
+.paper-menu {
+  display: flex;
+  justify-content: space-between;
+  gap: 55px;
+  font-size: 36px;
+  padding-right: 0px;
+}
+.paper-text {
+  font-size: 54px;
+  color: white;
+  left: 0;
+}
+.paper-menu a {
+  color: white;
+}
+/* section blog-title */
+.blog-title {
+  display: block;
+  align-items: center;
+  text-align: center;
+  font-size: 40px;
+
+  color: rgb(255, 254, 254);
+  padding-top: 50px;
+}
+.blog-title h1 {
+  font-size: 9rem;
+  font-weight: 400;
+  letter-spacing: 10px;
+}
+.blog-new {
+  font-size: 40px;
+  margin-top: -70px;
+  padding-bottom: 8rem;
+}
+/* blog2 */
+.blog-title2 {
+  display: block;
+  align-items: center;
+  text-align: center;
+  font-size: 40px;
+  color: rgb(255, 254, 254);
+  padding-top: 50px;
+  background-image: url("../img/logo2.png");
+  background-repeat: no-repeat;
+  width: 100%;
+  background-size: cover;
+  background-attachment: fixed;
+}
+.blog-title2 h1 {
+  font-size: 9rem;
+  font-weight: 100;
+  letter-spacing: 15px;
+  padding-top: 7rem;
+}
+.blog-new2 {
+  font-size: 40px;
+  margin-top: -70px;
+  padding-bottom: 8rem;
+}
+/* blog3 */
+.blog-title3 {
+  display: block;
+  align-items: center;
+  text-align: center;
+  font-size: 40px;
+  color: rgb(255, 254, 254);
+  padding-top: 50px;
+  background-image: url("../img/liv3.png");
+  background-repeat: no-repeat;
+  width: 100%;
+  background-size: cover;
+  background-attachment: fixed;
+}
+.blog-title3 h1 {
+  font-size: 9rem;
+  font-weight: 100;
+  letter-spacing: 15px;
+}
+.blog-new3 {
+  font-size: 40px;
+  margin-top: -70px;
+  padding-bottom: 8rem;
+}
+/* blog4 */
+.blog-title4 {
+  display: block;
+  align-items: center;
+  text-align: center;
+  font-size: 40px;
+  color: rgb(255, 254, 254);
+  padding-top: 50px;
+  background-image: url("../img/Iiv4.png");
+  background-repeat: no-repeat;
+  width: 100%;
+  background-size: cover;
+  background-attachment: fixed;
+}
+.blog-title4 h1 {
+  font-size: 9rem;
+  font-weight: 100;
+  letter-spacing: 15px;
+}
+.blog-new4 {
+  font-size: 40px;
+  margin-top: -70px;
+  padding-bottom: 8rem;
+}
+/* blog5 */
+.blog-title5 {
+  display: block;
+  align-items: center;
+  text-align: center;
+  font-size: 40px;
+  color: rgb(255, 254, 254);
+  padding-top: 50px;
+  background-image: url("../img/IMAGE5.png");
+  background-repeat: no-repeat;
+  width: 100%;
+  background-size: cover;
+  background-attachment: fixed;
+}
+.blog-title5 h1 {
+  font-size: 9rem;
+  font-weight: 100;
+  letter-spacing: 15px;
+}
+.blog-new5 {
+  font-size: 40px;
+  margin-top: -70px;
+  padding-bottom: 8rem;
+}
+footer {
+  padding-top: 4rem;
+  text-align: center;
+  background-color: black;
+  color: white;
+}
+.footer h2 {
+  font-size: 60px;
+  font-weight: 200;
+  letter-spacing: 0.1em;
+}
+.footer p {
+  font-size: 44px;
+}
+.btnfoot {
+  background-color: white;
+  color: black;
+  margin-top: 50px;
+}
+/*  2022 Paper. Made with  */
+span {
+  color: red;
+}
+.sub-footer {
+  display: flex;
+  justify-content: space-around;
+}
+.link ul {
+  display: flex;
+  gap: 45px;
+}
+.link ul li a {
+  color: white;
+}
